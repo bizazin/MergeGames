@@ -19,4 +19,4 @@ Specifically, you will find pairs of diagrams for:
 
 • Working Units (Old & New)
 
-• Player Profile Info (Old)
+• Player Profile Info (New)
