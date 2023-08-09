@@ -36,8 +36,8 @@ Stay updated with the latest happenings in the game. Players can now access in-g
 ### Maintenance Work
 In a team of 7-8 people, I've been instrumental in:
 
-• *Bug Fixes*: Addressing and resolving numerous bugs to ensure smooth gameplay.
+• **Bug Fixes**: Addressing and resolving numerous bugs to ensure smooth gameplay.
 
-• *UI Layout*: The whole process of layout from scratch to the finished window in the game, redesigning and optimizing various game windows for a better user experience.
+• **UI Layout**: The whole process of layout from scratch to the finished window in the game, redesigning and optimizing various game windows for a better user experience.
 
-• *Endpoints for Server Interaction* and so on
+• **Endpoints for Server Interaction** and so on
