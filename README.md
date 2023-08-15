@@ -1,14 +1,11 @@
 # Merge Games 
 
-**Disclaimer:** This repository showcases only the specific parts of the 'Elemental Wars' project that I personally contributed to. For confidentiality and proprietary reasons, certain code segments have been stripped down or modified. The intention is to provide an understanding of the overall essence without revealing sensitive or detailed information.
+**Disclaimer:** This repository showcases only the specific parts of the 'Merge Games' project that I personally contributed to. For confidentiality and proprietary reasons, certain code segments have been stripped down or modified. The intention is to provide an understanding of the overall essence without revealing sensitive or detailed information.
 
 Welcome to the central repository where I've documented and showcased the main features and maintenance work done for a series of crypto merge games. While the games are identical in gameplay, they offer a diverse visual experience ranging from merging [cats](https://play.google.com/store/apps/details?id=com.soul.merge.cat.cute.simulator.adventure&hl=en&gl=US), [dragons](https://play.google.com/store/apps/details?id=com.dragons.tokens.crypto&hl=en&gl=US), [foxes](https://play.google.com/store/apps/details?id=com.realis.fox.nft.token&hl=en&gl=US), [doges](https://play.google.com/store/apps/details?id=elon.musk.doge.meme.blockchain.coin.twit&hl=en&gl=US), and more.
 
 ## Introduction
 This repository serves as a testament to the continuous improvement and dedication I've put into the crypto merge games. Whether you're a developer, a player, or just someone curious about my work, you'll find valuable insights into the features and fixes I've implemented over the past year.
-
-Disclaimer
-For reasons related to confidentiality and to ensure the non-disclosure of sensitive information, some sections of the code within this repository may have been altered, redacted, or are presented in an incomplete state. The changes made are solely to protect proprietary details while still showcasing the essence of the work I've done.
 
 ## Features
 ### Boss Fight
